@@ -80,7 +80,7 @@ See the [video](https://youtu.be/41G16cCqp-c).
 
 
 <!-- Screenshots -->
-## Contact
+## Screenshots
 
 ![Scene](https://user-images.githubusercontent.com/67511234/116344480-e8db8180-a803-11eb-9b72-17dd0f810f45.png)
 
