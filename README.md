@@ -108,7 +108,7 @@ See the [video](https://youtu.be/41G16cCqp-c).
 
 Nishit Mangal - [@gone_totally](https://twitter.com/gone_totally) - nishitmangalyt@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/axs7749/insideplant)
+Project Link: [Github](https://github.com/axs7749/insideplant)
 
 
 
