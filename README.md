@@ -24,6 +24,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#bsc-address">BSC Address</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -38,8 +39,18 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
+    
   
 </details>
+
+
+
+
+<!-- bsc address -->
+### BSC Address
+
+Bsc Address- 0x7bF120DD2BCa7DA2A76F4021b9a54eC1b874e9e4
+
 
 
 
@@ -109,6 +120,9 @@ See the [video](https://youtu.be/41G16cCqp-c).
 Nishit Mangal - [@gone_totally](https://twitter.com/gone_totally) - nishitmangalyt@gmail.com
 
 Project Link: [Github](https://github.com/axs7749/insideplant)
+
+
+
 
 
 
