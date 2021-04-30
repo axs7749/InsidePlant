@@ -49,7 +49,7 @@
 <!-- bsc address -->
 ### BSC Wallet Address
 
-Bsc Address- 0x7bF120DD2BCa7DA2A76F4021b9a54eC1b874e9e4
+Bsc Wallet Address- 0x7bF120DD2BCa7DA2A76F4021b9a54eC1b874e9e4
 
 
 
