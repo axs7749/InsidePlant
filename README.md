@@ -24,7 +24,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#bsc-address">BSC Address</a></li>
+    <li><a href="#bsc-wallet-address">BSC Address</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -47,7 +47,7 @@
 
 
 <!-- bsc address -->
-### BSC Address
+### BSC Wallet Address
 
 Bsc Address- 0x7bF120DD2BCa7DA2A76F4021b9a54eC1b874e9e4
 
